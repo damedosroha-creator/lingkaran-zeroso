@@ -1,0 +1,6 @@
+{
+  "name": "Geometri Lingkaran Interaktif",
+  "description": "Media pembelajaran interaktif geometri lingkaran lengkap dengan visualisasi SVG dinamis, pembuktian rumus, narator suara bahasa Indonesia, laboratorium eksplorasi, dan evaluasi 30 soal HOTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
